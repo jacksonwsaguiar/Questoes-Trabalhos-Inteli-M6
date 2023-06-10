@@ -1,0 +1,17 @@
+[1.215s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build --no-deps install_data
+[1.678s] running develop
+[1.987s] running egg_info
+[1.988s] writing robot_controller.egg-info/PKG-INFO
+[1.988s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[1.988s] writing entry points to robot_controller.egg-info/entry_points.txt
+[1.988s] writing requirements to robot_controller.egg-info/requires.txt
+[1.988s] writing top-level names to robot_controller.egg-info/top_level.txt
+[1.990s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[1.991s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[1.992s] running build_ext
+[1.992s] Creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages/robot-controller.egg-link (link to .)
+[1.993s] Installing test_node script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/robot_controller
+[1.994s] 
+[1.994s] Installed /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller
+[1.994s] running install_data
+[2.065s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build --no-deps install_data

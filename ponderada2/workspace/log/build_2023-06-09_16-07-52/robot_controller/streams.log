@@ -1,0 +1,27 @@
+[1.340s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build
+[1.795s] running develop
+[2.171s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build
+[2.172s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/src/robot_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build install --record /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/install.log --single-version-externally-managed
+[2.652s] running egg_info
+[2.653s] writing ../../build/robot_controller/robot_controller.egg-info/PKG-INFO
+[2.653s] writing dependency_links to ../../build/robot_controller/robot_controller.egg-info/dependency_links.txt
+[2.653s] writing entry points to ../../build/robot_controller/robot_controller.egg-info/entry_points.txt
+[2.653s] writing requirements to ../../build/robot_controller/robot_controller.egg-info/requires.txt
+[2.653s] writing top-level names to ../../build/robot_controller/robot_controller.egg-info/top_level.txt
+[2.656s] reading manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[2.658s] writing manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[2.658s] running build
+[2.659s] running build_py
+[2.659s] copying robot_controller/robot_node.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build/lib/robot_controller
+[2.659s] running install
+[2.660s] running install_lib
+[2.661s] copying /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build/lib/robot_controller/robot_node.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[2.662s] byte-compiling /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages/robot_controller/robot_node.py to robot_node.cpython-310.pyc
+[2.663s] running install_data
+[2.664s] running install_egg_info
+[2.668s] removing '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages/robot_controller-1.0.0-py3.10.egg-info' (and everything under it)
+[2.668s] Copying ../../build/robot_controller/robot_controller.egg-info to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages/robot_controller-1.0.0-py3.10.egg-info
+[2.670s] running install_scripts
+[2.701s] Installing test_node script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/robot_controller
+[2.702s] writing list of installed files to '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/install.log'
+[2.759s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/src/robot_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build install --record /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/install.log --single-version-externally-managed

@@ -1,0 +1,18 @@
+[0.563s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build --no-deps install_data
+[0.774s] running develop
+[0.906s] running egg_info
+[0.907s] writing robot_controller.egg-info/PKG-INFO
+[0.908s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[0.908s] writing entry points to robot_controller.egg-info/entry_points.txt
+[0.908s] writing requirements to robot_controller.egg-info/requires.txt
+[0.908s] writing top-level names to robot_controller.egg-info/top_level.txt
+[0.910s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.911s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.912s] running build_ext
+[0.912s] Creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages/robot-controller.egg-link (link to .)
+[0.913s] Installing test_node script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/robot_controller
+[0.913s] 
+[0.913s] Installed /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller
+[0.914s] running install_data
+[0.914s] copying package.xml -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/share/robot_controller
+[0.941s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada2/workspace/build/robot_controller/build --no-deps install_data
