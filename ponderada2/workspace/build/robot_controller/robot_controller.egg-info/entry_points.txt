@@ -1,4 +1,3 @@
 [console_scripts]
-read_odom = robot_controller.odom_subscriber:main
-route_node = robot_controller.robot_node:main
+robot_node = robot_controller.robot_node:main
 

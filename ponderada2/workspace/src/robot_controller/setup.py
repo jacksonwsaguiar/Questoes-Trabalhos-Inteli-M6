@@ -20,8 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "route_node=robot_controller.robot_node:main",
-            "read_odom=robot_controller.odom_subscriber:main"
+            "robot_node=robot_controller.robot_node:main"
         ],
     },
 )
