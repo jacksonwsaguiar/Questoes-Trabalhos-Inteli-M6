@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+cv_controller/__init__.py
+cv_controller/webcam_cv_node.py
+cv_controller.egg-info/PKG-INFO
+cv_controller.egg-info/SOURCES.txt
+cv_controller.egg-info/dependency_links.txt
+cv_controller.egg-info/entry_points.txt
+cv_controller.egg-info/requires.txt
+cv_controller.egg-info/top_level.txt
+cv_controller.egg-info/zip-safe
+resource/cv_controller

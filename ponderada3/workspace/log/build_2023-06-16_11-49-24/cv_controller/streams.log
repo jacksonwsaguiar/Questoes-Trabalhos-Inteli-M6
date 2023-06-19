@@ -1,0 +1,17 @@
+[0.684s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build --no-deps install_data
+[1.096s] running develop
+[1.274s] running egg_info
+[1.276s] writing cv_controller.egg-info/PKG-INFO
+[1.276s] writing dependency_links to cv_controller.egg-info/dependency_links.txt
+[1.276s] writing entry points to cv_controller.egg-info/entry_points.txt
+[1.276s] writing requirements to cv_controller.egg-info/requires.txt
+[1.276s] writing top-level names to cv_controller.egg-info/top_level.txt
+[1.278s] reading manifest file 'cv_controller.egg-info/SOURCES.txt'
+[1.278s] writing manifest file 'cv_controller.egg-info/SOURCES.txt'
+[1.279s] running build_ext
+[1.280s] Creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv-controller.egg-link (link to .)
+[1.281s] Installing crack_detector script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/cv_controller
+[1.281s] 
+[1.281s] Installed /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller
+[1.281s] running install_data
+[1.306s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build --no-deps install_data

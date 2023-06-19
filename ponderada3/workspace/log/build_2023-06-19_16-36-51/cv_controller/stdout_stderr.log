@@ -1,0 +1,31 @@
+running develop
+Removing /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv-controller.egg-link (link to .)
+running egg_info
+writing ../../build/cv_controller/cv_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/cv_controller/cv_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/cv_controller/cv_controller.egg-info/entry_points.txt
+writing requirements to ../../build/cv_controller/cv_controller.egg-info/requires.txt
+writing top-level names to ../../build/cv_controller/cv_controller.egg-info/top_level.txt
+reading manifest file '../../build/cv_controller/cv_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/cv_controller/cv_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build
+creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib
+creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller
+copying cv_controller/__init__.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller
+copying cv_controller/proccess_video_node.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller
+running install
+running install_lib
+creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller
+copying /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller/__init__.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller
+copying /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller/proccess_video_node.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller
+byte-compiling /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller/proccess_video_node.py to proccess_video_node.cpython-310.pyc
+running install_data
+copying package.xml -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/share/cv_controller
+running install_egg_info
+Copying ../../build/cv_controller/cv_controller.egg-info to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller-1.0.0-py3.10.egg-info
+running install_scripts
+Installing crack_detector script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/cv_controller
+writing list of installed files to '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/install.log'

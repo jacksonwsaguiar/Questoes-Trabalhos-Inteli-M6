@@ -1,0 +1,3 @@
+[console_scripts]
+crack_detector = cv_controller.webcam_cv_node:main
+

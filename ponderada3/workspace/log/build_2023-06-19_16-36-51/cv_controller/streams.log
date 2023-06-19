@@ -1,0 +1,35 @@
+[0.670s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build
+[0.892s] running develop
+[1.033s] Removing /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv-controller.egg-link (link to .)
+[1.062s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build
+[1.062s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/src/cv_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_controller build --build-base /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build install --record /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/install.log --single-version-externally-managed
+[1.276s] running egg_info
+[1.277s] writing ../../build/cv_controller/cv_controller.egg-info/PKG-INFO
+[1.278s] writing dependency_links to ../../build/cv_controller/cv_controller.egg-info/dependency_links.txt
+[1.279s] writing entry points to ../../build/cv_controller/cv_controller.egg-info/entry_points.txt
+[1.279s] writing requirements to ../../build/cv_controller/cv_controller.egg-info/requires.txt
+[1.279s] writing top-level names to ../../build/cv_controller/cv_controller.egg-info/top_level.txt
+[1.281s] reading manifest file '../../build/cv_controller/cv_controller.egg-info/SOURCES.txt'
+[1.283s] writing manifest file '../../build/cv_controller/cv_controller.egg-info/SOURCES.txt'
+[1.283s] running build
+[1.283s] running build_py
+[1.284s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build
+[1.284s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib
+[1.284s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller
+[1.285s] copying cv_controller/__init__.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller
+[1.285s] copying cv_controller/proccess_video_node.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller
+[1.286s] running install
+[1.286s] running install_lib
+[1.287s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller
+[1.287s] copying /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller/__init__.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller
+[1.288s] copying /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build/lib/cv_controller/proccess_video_node.py -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller
+[1.288s] byte-compiling /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller/__init__.py to __init__.cpython-310.pyc
+[1.289s] byte-compiling /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller/proccess_video_node.py to proccess_video_node.cpython-310.pyc
+[1.290s] running install_data
+[1.290s] copying package.xml -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/share/cv_controller
+[1.291s] running install_egg_info
+[1.292s] Copying ../../build/cv_controller/cv_controller.egg-info to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages/cv_controller-1.0.0-py3.10.egg-info
+[1.295s] running install_scripts
+[1.312s] Installing crack_detector script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/cv_controller
+[1.313s] writing list of installed files to '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/install.log'
+[1.334s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/src/cv_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/install/cv_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_controller build --build-base /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/build install --record /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada3/workspace/build/cv_controller/install.log --single-version-externally-managed
