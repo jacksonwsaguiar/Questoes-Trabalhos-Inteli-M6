@@ -15,7 +15,6 @@ class CVNode(Node):
 
     def __init__(self):
         super().__init__("computer_vision_node")
-        self.publisher_ = self.create_publisher(Image, 'video_frames', 10)
         self.timer = self.create_timer(0.1, self.callback)
         self.cap = cv2.VideoCapture(INPUT)
 
@@ -25,9 +24,6 @@ class CVNode(Node):
         self.output = cv2.VideoWriter(
             OUTPUT, cv2.VideoWriter_fourcc(*'DIVX'), 24, (width, height))
         
-        self.cv_bridge = CvBridge()
-        self.counter = 0
-
     def callback(self):
         if not self.cap.isOpened():
             self.get_logger().error("Cannot load video. restarting...")
