@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_image = upload_server.publisher:main
+subscriber_image = upload_server.subscriber:main
+

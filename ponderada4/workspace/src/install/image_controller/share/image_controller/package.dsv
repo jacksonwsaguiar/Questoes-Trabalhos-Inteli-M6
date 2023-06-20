@@ -1,0 +1,9 @@
+source;share/image_controller/hook/pythonpath.ps1
+source;share/image_controller/hook/pythonpath.dsv
+source;share/image_controller/hook/pythonpath.sh
+source;share/image_controller/hook/ament_prefix_path.ps1
+source;share/image_controller/hook/ament_prefix_path.dsv
+source;share/image_controller/hook/ament_prefix_path.sh
+source;../../build/image_controller/share/image_controller/hook/pythonpath_develop.ps1
+source;../../build/image_controller/share/image_controller/hook/pythonpath_develop.dsv
+source;../../build/image_controller/share/image_controller/hook/pythonpath_develop.sh

@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+image_controller/__init__.py
+image_controller/publisher.py
+image_controller/server.py
+image_controller/subscriber.py
+image_controller.egg-info/PKG-INFO
+image_controller.egg-info/SOURCES.txt
+image_controller.egg-info/dependency_links.txt
+image_controller.egg-info/entry_points.txt
+image_controller.egg-info/requires.txt
+image_controller.egg-info/top_level.txt
+image_controller.egg-info/zip-safe
+resource/image_controller

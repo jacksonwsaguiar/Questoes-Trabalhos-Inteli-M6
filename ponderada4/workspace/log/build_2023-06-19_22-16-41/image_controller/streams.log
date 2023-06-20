@@ -1,0 +1,25 @@
+[0.559s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/build --no-deps install_data
+[0.785s] running develop
+[0.925s] running egg_info
+[0.925s] creating image_controller.egg-info
+[0.926s] writing image_controller.egg-info/PKG-INFO
+[0.926s] writing dependency_links to image_controller.egg-info/dependency_links.txt
+[0.926s] writing entry points to image_controller.egg-info/entry_points.txt
+[0.927s] writing requirements to image_controller.egg-info/requires.txt
+[0.927s] writing top-level names to image_controller.egg-info/top_level.txt
+[0.927s] writing manifest file 'image_controller.egg-info/SOURCES.txt'
+[0.928s] reading manifest file 'image_controller.egg-info/SOURCES.txt'
+[0.929s] writing manifest file 'image_controller.egg-info/SOURCES.txt'
+[0.930s] running build_ext
+[0.931s] Creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages/image-controller.egg-link (link to .)
+[0.931s] Installing publisher_image script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/image_controller
+[0.932s] Installing subscriber_image script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/image_controller
+[0.932s] 
+[0.933s] Installed /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller
+[0.933s] running install_data
+[0.933s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/share/ament_index
+[0.933s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/share/ament_index/resource_index
+[0.934s] creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/share/ament_index/resource_index/packages
+[0.934s] copying resource/image_controller -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/share/ament_index/resource_index/packages
+[0.934s] copying package.xml -> /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/share/image_controller
+[0.957s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/build --no-deps install_data

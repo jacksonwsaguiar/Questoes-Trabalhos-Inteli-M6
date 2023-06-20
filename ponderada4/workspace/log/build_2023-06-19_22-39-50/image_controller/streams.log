@@ -1,0 +1,18 @@
+[0.606s] Invoking command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/build --no-deps install_data
+[0.935s] running develop
+[1.142s] running egg_info
+[1.142s] writing image_controller.egg-info/PKG-INFO
+[1.143s] writing dependency_links to image_controller.egg-info/dependency_links.txt
+[1.143s] writing entry points to image_controller.egg-info/entry_points.txt
+[1.143s] writing requirements to image_controller.egg-info/requires.txt
+[1.143s] writing top-level names to image_controller.egg-info/top_level.txt
+[1.145s] reading manifest file 'image_controller.egg-info/SOURCES.txt'
+[1.146s] writing manifest file 'image_controller.egg-info/SOURCES.txt'
+[1.148s] running build_ext
+[1.148s] Creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages/image-controller.egg-link (link to .)
+[1.149s] Installing publisher_image script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/image_controller
+[1.149s] Installing subscriber_image script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/image_controller
+[1.150s] 
+[1.150s] Installed /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller
+[1.150s] running install_data
+[1.182s] Invoked command in '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller' returned '0': PYTHONPATH=/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/prefix_override:/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller/build --no-deps install_data

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing image_controller.egg-info/PKG-INFO
+writing dependency_links to image_controller.egg-info/dependency_links.txt
+writing entry points to image_controller.egg-info/entry_points.txt
+writing requirements to image_controller.egg-info/requires.txt
+writing top-level names to image_controller.egg-info/top_level.txt
+reading manifest file 'image_controller.egg-info/SOURCES.txt'
+writing manifest file 'image_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/python3.10/site-packages/image-controller.egg-link (link to .)
+Installing publisher_image script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/image_controller
+Installing subscriber_image script to /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/install/image_controller/lib/image_controller
+
+Installed /home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/build/image_controller
+running install_data

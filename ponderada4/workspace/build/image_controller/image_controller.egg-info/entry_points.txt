@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_image = image_controller.publisher:main
+subscriber_image = image_controller.subscriber:main
+
