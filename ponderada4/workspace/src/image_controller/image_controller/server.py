@@ -1,8 +1,7 @@
 from flask import Flask, render_template, request, send_from_directory, Response
 import sqlite3
-from pathlib import Path
 import time
-DIR_PATH: Path = Path(__file__).parent
+
 UPLOAD_FOLDER = '/home/jacksonaguiar/Questoes-Trabalhos-Inteli-M6/ponderada4/workspace/src/image_controller/image_controller/static/images'
 
 app = Flask(__name__, static_url_path='/static')
@@ -25,7 +24,6 @@ def index():
 
 @app.route("/upload", methods=["POST"])
 def upload():
-    print(request)
     conn = get_db_connection()
     filename = f"img-{time.time()}.jpg"
     storage = UPLOAD_FOLDER + "/"+filename
